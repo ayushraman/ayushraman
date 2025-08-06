@@ -67,4 +67,5 @@ I'm currently diving deeper into:
 ---
 
 
-Thanks for stopping by — let's build something **awesome** together 🚀
+### 🎮 And Yeah Games Playing Games I love it
+### Story Games 
