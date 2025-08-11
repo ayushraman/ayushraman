@@ -48,9 +48,9 @@ I'm a **multidisciplinary developer & digital artist**.
 ## 🧠 Always Learning
 
 I'm currently diving deeper into:
-- Procedural generation in games
-- AI-assisted design tools
-- Real-time VFX and shader magic
+- Procedural Textures Generation (Pretty..... You know uhh......)
+- Learning AI-assisted design tools
+- And Messing with CAD Tools
 
 ---
 
