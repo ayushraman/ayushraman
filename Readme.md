@@ -12,7 +12,7 @@ I'm a **multidisciplinary developer & digital artist**.
 
 ### 🐍 Python
 - Automation & scripting
-- Quick Tools for own Producivity
+- Quick Tools for Producivity
 
 ### 🌐 Web Development
 - Responsive, dynamic websites (HTML, CSS, JS, React, etc.)
