@@ -15,7 +15,7 @@ I'm a **multidisciplinary developer & digital artist**.
 - Quick Tools for Producivity
 
 ### 🌐 Web Development
-- Responsive, dynamic websites (HTML, CSS, JS, React,GSAP, AOP etc.)
+- Responsive, dynamic websites (HTML, CSS, JS, React,Next, GSAP, AOS etc.)
 - API integrations & backend services
 - Frontend polish meets backend power
 
