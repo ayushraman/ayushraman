@@ -1,4 +1,5 @@
 # Ayush Raman
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fayushraman&label=HighFives&labelColor=%23dce775&countColor=%2337d67a&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fayushraman)
 
 Developer. Designer. Artist. Sometimes all three in the same project.
 
