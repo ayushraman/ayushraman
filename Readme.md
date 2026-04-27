@@ -7,7 +7,7 @@ Developer. Designer. Artist. Sometimes all three in the same project.
 ## What I Work With
 
 **Languages & Frameworks**
-Python, JavaScript, React, Next.js, HTML, CSS, GSAP, AOS
+Python, JavaScript, React, Next.js, HTML, CSS, GSAP, AOS, C++, C#, dotnet
 
 **Game Development**
 Unreal Engine
