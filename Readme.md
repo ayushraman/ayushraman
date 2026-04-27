@@ -1,71 +1,45 @@
-# 👋 Hey there, I'm Ayush Raman!
+# Ayush Raman
 
-
-
-## 🚀 About Me
-
-I'm a **multidisciplinary developer & digital artist**.
+Developer. Designer. Artist. Sometimes all three in the same project.
 
 ---
 
-## 💼 What I Do
+## What I Work With
 
-### 🐍 Python
-- Automation & scripting
-- Quick Tools for Producivity
+**Languages & Frameworks**
+Python, JavaScript, React, Next.js, HTML, CSS, GSAP, AOS
 
-### 🌐 Web Development
-- Responsive, dynamic websites (HTML, CSS, JS, React,Next, GSAP, AOS etc.)
-- API integrations & backend services
-- Frontend polish meets backend power
+**Game Development**
+Unreal Engine
 
-### 🎮 Game Development
-- 2D & 3D games (Unreal)
-- Gameplay mechanics, physics, AI
-- Prototyping and rapid iteration
+**3D & Visual Art**
+Blender — modeling, texturing, rendering, environment design
 
-### 🎨 UI/UX Design
-- Wireframes, mockups & user flows
-- Tools: Figma, Adobe XD, Photoshop
+**UI/UX**
+Figma, Photoshop
 
-### 🧙‍♂️ CGI & Digital Art
-- 3D Modeling, texturing, rendering
-- Blender wizardry
-- 3D Environment Design
+**Motion & Media**
+Premiere Pro, After Effects
 
-### 🧰 Adobe Suite
-- Photoshop, Premiere Pro, After Effects
-- Visual content for web, games, and music
-- Branding, motion graphics & more
-
-### 🎧 Music Production
-- Composing, mixing, mastering
-- Sound design for games & videos
-- DAWs: Ableton Live, FL Studio
+**Music Production**
+Ableton Live, FL Studio — composing, mixing & mastering, sound design
 
 ---
 
-## 🧠 Always Learning
+## Currently Learning
 
-I'm currently diving deeper into:
-- Procedural Textures Generation (Pretty..... You know uhh......)
-- Learning AI-assisted design tools
-- And Messing with CAD Tools
-
----
-
-## ⚡ Fun Facts
-
-- 🎹 I can make a game and compose its soundtrack — solo!
-- 💡 I sometimes build tools to improve my own workflow
-- 🎬 I love mixing code with visual storytelling
-- 🎧 My playlists are as diverse as my codebase
+- Cybersecurity
+- AI & AI-assisted design tools
+- CAD
 
 ---
 
+## A Few Things
+
+- I can build a game and compose its soundtrack, solo
+- I write tools to fix bottlenecks in my own workflow
+- Playing Story games are my thing
 
 ---
 
-
-### 🎮 And Yeah Games Playing Games I love it
-### Story Games 
+*Open to collaborations. Reach out if something clicks.*
