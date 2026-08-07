@@ -5,13 +5,14 @@ Developer. Designer. Artist. Sometimes all three in the same project.
 
 ---
 ## EXPERIENCE
-**Cybersecurity Intern at CDAC**
+- **Cybersecurity Intern at CDAC**
 
-**Google Student Ambassador**
+- **Google Student Ambassador**
 
-**Web Development Intern at Lenovo**
+- **Web Development Intern at Lenovo**
 
-**Freelancer - Graphic Design, Video Editing, Music Production, VFX and 3D Visualization**
+- **Freelancer - Graphic Design, Video Editing, Music Production, VFX and 3D Visualization**
+---
 
 ## What I Work With
 
