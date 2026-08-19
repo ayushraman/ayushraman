@@ -7,6 +7,8 @@ Developer. Designer. Artist. Sometimes all three in the same project.
 ## EXPERIENCE
 - **Cybersecurity Intern at CDAC**
 
+- **Web Developer Intern at Lenovo**
+
 - **Google Student Ambassador**
 
 - **Web Development Intern at Lenovo**
